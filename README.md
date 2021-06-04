@@ -63,3 +63,25 @@ Here we goooooooo :rocket:
   #### Command line tutorial
 
   https://www.youtube.com/watch?v=d9s8co9POYY&t=401s
+
+- ## Metagenomics
+
+  #### Happy Belly Bioinformatics
+
+  https://astrobiomike.github.io/genomics/metagen_anvio
+
+  #### BVCN Resuorces:
+
+    BVCN Metagenomics Lesson 1: https://www.youtube.com/watch?v=EkmuvRQ2tWw
+
+    BVCN Metagenomics Lesson 2: https://www.youtube.com/watch?v=MpScSM_d3Vo
+
+    BVCN Metagenomics Lesson 3: https://www.youtube.com/watch?v=6LfPzwe9dO8
+
+    BVCN Metagenomics Lesson 4: https://www.youtube.com/watch?v=emUYU3m3XDU
+
+    BVCN Metagenomics Lesson 5: https://www.youtube.com/watch?v=Fr66vvLlJiU
+
+    BVCN Metagenomics Lesson 6: https://www.youtube.com/watch?v=g4T1xwO9yvI
+
+    BVCN Metagenomics Lesson 9: https://www.youtube.com/watch?v=DhHQW8Yzm6c
