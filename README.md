@@ -1,6 +1,25 @@
 # Bioinformatics_Summer2021
 
-Here is a guide to our summer 2021 bioinformatics fun! I will be uploading all resources, slides, etc to use as tools to master our comprehension of bioinformatics, which can typically be very daunting BUT NOT THIS SUMMER! NOT FOR US! Let's do this :muscle:
+Here is a guide to our summer 2021 bioinformatics fun (rhyme intentional :wink: )! I will be uploading all resources, slides, etc to use as tools to master our comprehension of bioinformatics, which can typically be very daunting BUT NOT THIS SUMMER! NOT FOR US! 
+
+Let's do this :muscle:
+
+#### Topics to cover:
+1. Bioinformatics (intro)
+2. Unix
+3. Amplicon 16S rRNA sequencing
+4. Metagenomics
+5. Phylogenetics
+6. Viromics
+7. Programming in R
+
+#### Special Topics:
+1. GitHub
+2. Making figures 
+3. Making a poster
+4. Applying to graduate school
+
+Here we goooooooo :rocket:
 
 ## Week 1
 
