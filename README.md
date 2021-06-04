@@ -85,3 +85,29 @@ Here we goooooooo :rocket:
     BVCN Metagenomics Lesson 6: https://www.youtube.com/watch?v=g4T1xwO9yvI
 
     BVCN Metagenomics Lesson 9: https://www.youtube.com/watch?v=DhHQW8Yzm6c
+    
+- ## R
+   
+  #### BVCN Resuorces:
+  
+    BVCN R Lesson 1: https://www.youtube.com/watch?v=kicRl5UNE64
+    
+    BVCN R Lesson 2: https://www.youtube.com/watch?v=qWjo_o9QJBI
+    
+    BVCN R Lesson 3: https://www.youtube.com/watch?v=Oj0yRXrvm2Q
+    
+    BVCN R Lesson 4: https://www.youtube.com/watch?v=iTS5OEqt6M8&t=10s
+    
+    BVCN R Lesson 5: https://www.youtube.com/watch?v=uv972TDRflI&t=636s
+    
+    BVCN R Lesson 6: https://www.youtube.com/watch?v=Ot8helWh2uM
+    
+    BVCN R Lesson 7 (part 1): https://www.youtube.com/watch?v=_23Dw9klihY
+    
+    BVCN R Lesson 7 (part 2): https://www.youtube.com/watch?v=NHkTz8coIco
+    
+    BVCN R Lesson 8a: https://www.youtube.com/watch?v=OHIL1TDLLt0
+    
+    BVCN R Lesson 8b.1: https://www.youtube.com/watch?v=lSgwJBPW88k
+    
+    BVCN R Lesson 8b.2: https://www.youtube.com/watch?v=1cMqmKGBP1U
