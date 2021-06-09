@@ -15,9 +15,10 @@ Let's do this :muscle:
 
 #### Special Topics:
 1. GitHub
-2. Making figures 
-3. Making a poster
-4. Applying to graduate school
+2. HackMD
+3. Making figures 
+4. Making a poster
+5. Applying to graduate school
 
 Here we goooooooo :rocket:
 
