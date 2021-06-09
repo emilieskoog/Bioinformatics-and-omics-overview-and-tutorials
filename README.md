@@ -23,7 +23,9 @@ Here we goooooooo :rocket:
 
 ## Week 1
 
-Introduction to Bioinformatics: https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Bioinformatics.pdf
+Slides:
+
+[Introduction to Bioinformatics](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Bioinformatics.pdf)
 
 ## Week 2
 
