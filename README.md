@@ -27,6 +27,13 @@ Here we goooooooo :rocket:
 Slides:
 
 [Introduction to Bioinformatics](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Bioinformatics.pdf)
+[Video recording: Introduction to Bioinformatics](https://mit.zoom.us/rec/share/5HxsFnmjr32NS5CHeEVAWhzLaTPESmlL-KT2YCZ7fyRpSk0yDjVUu5YFqJcsWv_a.uRUEO6OD-Q8piBeJ)
+
+
+[Introduction to Unix](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Bioinformatics.pdf)
+[Video recording: Introduction to Unix (Part 1)](https://mit.zoom.us/rec/share/PLnlbGYM0M80FX3hKXy_LkwPb0xn-sA0WKDo3V-gCao-NR-yqHknOMRUxvuy7gI1.nFx7JMFDXijh2-k8)
+
+
 
 ## Week 2
 
