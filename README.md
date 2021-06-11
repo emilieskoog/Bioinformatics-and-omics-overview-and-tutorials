@@ -28,7 +28,7 @@ Here we goooooooo :rocket:
 
   [Introduction to Bioinformatics](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Bioinformatics.pdf)
 
-  [Introduction to Unix](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Unix%20(Part%201).pdf)
+  [Introduction to Unix (Part 1)](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Unix%20(Part%201).pdf)
 
 :movie_camera: Video recordings:
 
