@@ -77,6 +77,13 @@ Here we goooooooo :rocket:
   #### Command line tutorial
 
   https://www.youtube.com/watch?v=d9s8co9POYY&t=401s
+  
+- ## Conda
+
+  #### Conda cheat sheet: 
+  
+  https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
 
 - ## Metagenomics
 
