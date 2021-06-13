@@ -80,10 +80,15 @@ Here we goooooooo :rocket:
   
 - ## Conda
 
+  #### Conda explained: 
+  
+    https://geohackweek.github.io/datasharing/01-conda-tutorial/
+
+  
   #### Conda cheat sheet: 
   
   https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
-
+  
 
 - ## Metagenomics
 
