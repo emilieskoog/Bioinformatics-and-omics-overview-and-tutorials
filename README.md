@@ -35,6 +35,10 @@ Here we goooooooo :rocket:
   [Video recording: Introduction to Bioinformatics](https://mit.zoom.us/rec/share/5HxsFnmjr32NS5CHeEVAWhzLaTPESmlL-KT2YCZ7fyRpSk0yDjVUu5YFqJcsWv_a.uRUEO6OD-Q8piBeJ)
 
   [Video recording: Introduction to Unix (Part 1)](https://mit.zoom.us/rec/share/PLnlbGYM0M80FX3hKXy_LkwPb0xn-sA0WKDo3V-gCao-NR-yqHknOMRUxvuy7gI1.nFx7JMFDXijh2-k8)
+  
+  [Video recording: Introduction to Anaconda](https://mit.zoom.us/rec/share/ERAX1_3blZ76jY00_MX6e3Vj7mz9BE5oB99sDTt4dEK9HkQLZMbQlJlDtjUbWf8z._CTmsdy6Td9vMonW)
+
+  
 
 
 ## Week 2
