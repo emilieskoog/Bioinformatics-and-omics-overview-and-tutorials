@@ -43,6 +43,15 @@ Here we goooooooo :rocket:
 
 ## Week 2
 
+:open_book: Slides:
+
+  [Introduction to Anaconda](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Anaconda.pdf)
+
+:movie_camera: Video recordings:
+  
+  [Video recording: Introduction to Anaconda](https://mit.zoom.us/rec/share/ERAX1_3blZ76jY00_MX6e3Vj7mz9BE5oB99sDTt4dEK9HkQLZMbQlJlDtjUbWf8z._CTmsdy6Td9vMonW)
+
+  
 ## Week 3
 
 ## Week 4
