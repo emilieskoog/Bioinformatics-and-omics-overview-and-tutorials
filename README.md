@@ -29,6 +29,7 @@ Here we goooooooo :rocket:
   [Introduction to Bioinformatics](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Bioinformatics.pdf)
 
   [Introduction to Unix (Part 1)](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Unix%20(Part%201).pdf)
+  
 
 :movie_camera: Video recordings:
 
@@ -46,10 +47,11 @@ Here we goooooooo :rocket:
 :open_book: Slides:
 
   [Introduction to Anaconda](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Anaconda.pdf)
+  
 
 :movie_camera: Video recordings:
   
-  [Video recording: Introduction to Anaconda](https://mit.zoom.us/rec/share/ERAX1_3blZ76jY00_MX6e3Vj7mz9BE5oB99sDTt4dEK9HkQLZMbQlJlDtjUbWf8z._CTmsdy6Td9vMonW)
+  [Video recording: Introduction to Anaconda](https://mit.zoom.us/rec/share/9XzbWOGHW1qAHVF2RO3nMWU7cWzw25NsmGwy7-d68vOOOJljB_rToAknb521K1gd.5zdaWSsDXSWMxwaK)
 
   
 ## Week 3
