@@ -47,10 +47,15 @@ Here we goooooooo :rocket:
 
   [Introduction to Anaconda](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Anaconda.pdf)
   
+  [Introduction to Phylogenetics](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Phylogenetics.pdf)
+
+  
 
 :movie_camera: Video recordings:
   
   [Video recording: Introduction to Anaconda](https://mit.zoom.us/rec/share/9XzbWOGHW1qAHVF2RO3nMWU7cWzw25NsmGwy7-d68vOOOJljB_rToAknb521K1gd.5zdaWSsDXSWMxwaK)
+  
+  [Video recording: Introduction to Phylogenetics](https://mit.zoom.us/rec/share/a0RQ2-r5WOdVy75xPQ_WKuA3wL8uDpsO2g2p3ItRFPSwTUwUaBnf7EMW1U8lMC7_.-CespUTiT-2n9VK0)
 
   
 ## Week 3
