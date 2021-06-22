@@ -114,6 +114,8 @@ Here we goooooooo :rocket:
   #### Happy Belly Bioinformatics
 
   https://astrobiomike.github.io/genomics/metagen_anvio
+  
+  https://astrobiomike.github.io/misc/amplicon_and_metagen
 
   #### BVCN Resuorces:
 
