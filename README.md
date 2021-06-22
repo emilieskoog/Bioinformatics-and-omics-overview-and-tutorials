@@ -131,6 +131,10 @@ Here we goooooooo :rocket:
 
     BVCN Metagenomics Lesson 9: https://www.youtube.com/watch?v=DhHQW8Yzm6c
     
+  #### STAMPS Course
+    
+    Metagenome Workflow: https://github.com/mblstamps/stamps2019/blob/master/atlas/atlas-pipeline.md
+    
 - ## R
    
   #### BVCN Resuorces:
