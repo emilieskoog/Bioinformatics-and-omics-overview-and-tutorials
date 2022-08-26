@@ -1,6 +1,6 @@
 # Bioinformatics_Summer2021
 
-Here is a guide to our summer 2021 bioinformatics fun (rhyme intentional :wink: )! I will be uploading all resources, slides, etc to use as tools to master our comprehension of bioinformatics, which can typically be very daunting BUT NOT THIS SUMMER! NOT FOR US! 
+Here is a guide to our summer 2021 bioinformatics fun (rhyme intentional :wink: )! I will be uploading all resources, slides, etc to use as tools to get our footing in the world of bioinformatics, which can typically be very daunting BUT NOT THIS SUMMER! NOT FOR US! 
 
 Let's do this :muscle:
 
