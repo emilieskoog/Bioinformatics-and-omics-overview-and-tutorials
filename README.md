@@ -5,70 +5,71 @@ Here is a guide to our summer 2021 bioinformatics fun (rhyme intentional :wink: 
 Let's do this :muscle:
 
 #### Topics to cover:
-1. Bioinformatics (intro)
-2. Unix
-3. Amplicon 16S rRNA sequencing
-4. Metagenomics
-5. Phylogenetics
-6. Viromics
-7. Programming in R
+1. Introduction to Bioinformatics
+2. Introduction to Unix
+3. Introduction to Anaconda
+4. Introduction to Phylogenetics 
+5. Metagenomics vs. Amplicon 16S rRNA sequencing
+6. Examples of R programming
 
 #### Special Topics:
-1. GitHub
-2. HackMD
-3. Making figures 
-4. Making a poster
-5. Applying to graduate school
+1. HackMD
+2. Making figures 
+3. Making a poster
+
 
 Here we goooooooo :rocket:
 
-## Week 1
+## Introduction to Bioinformatics
 
 :open_book: Slides:
 
   [Introduction to Bioinformatics](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Bioinformatics.pdf)
 
-  [Introduction to Unix (Part 1)](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Unix%20(Part%201).pdf)
-  
 
 :movie_camera: Video recordings:
 
   [Video recording: Introduction to Bioinformatics](https://mit.zoom.us/rec/share/5HxsFnmjr32NS5CHeEVAWhzLaTPESmlL-KT2YCZ7fyRpSk0yDjVUu5YFqJcsWv_a.uRUEO6OD-Q8piBeJ)
 
-  [Video recording: Introduction to Unix (Part 1)](https://mit.zoom.us/rec/share/PLnlbGYM0M80FX3hKXy_LkwPb0xn-sA0WKDo3V-gCao-NR-yqHknOMRUxvuy7gI1.nFx7JMFDXijh2-k8)
+ 
+## Introduction to Unix
+
+:open_book: Slides:
+
+  [Introduction to Unix](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Unix%20(Part%201).pdf)
   
 
+:movie_camera: Video recordings:
+
+  [Video recording: Introduction to Unix](https://mit.zoom.us/rec/share/PLnlbGYM0M80FX3hKXy_LkwPb0xn-sA0WKDo3V-gCao-NR-yqHknOMRUxvuy7gI1.nFx7JMFDXijh2-k8)
+  
   
 
-
-## Week 2
+## Introduction to Anaconda (Conda environments)
 
 :open_book: Slides:
 
   [Introduction to Anaconda](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Anaconda.pdf)
-  
-  [Introduction to Phylogenetics](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Phylogenetics.pdf)
-
   
 
 :movie_camera: Video recordings:
   
   [Video recording: Introduction to Anaconda](https://mit.zoom.us/rec/share/9XzbWOGHW1qAHVF2RO3nMWU7cWzw25NsmGwy7-d68vOOOJljB_rToAknb521K1gd.5zdaWSsDXSWMxwaK)
   
-  [Video recording: Introduction to Phylogenetics](https://mit.zoom.us/rec/share/a0RQ2-r5WOdVy75xPQ_WKuA3wL8uDpsO2g2p3ItRFPSwTUwUaBnf7EMW1U8lMC7_.-CespUTiT-2n9VK0)
+
+
+## Introduction to Phylogenetics
+
+:open_book: Slides:
 
   
-## Week 3
+[Introduction to Phylogenetics](https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Phylogenetics.pdf)
 
-## Week 4
 
-## Week 5
+:movie_camera: Video recordings:
 
-## Week 6 
+[Video recording: Introduction to Phylogenetics](https://mit.zoom.us/rec/share/a0RQ2-r5WOdVy75xPQ_WKuA3wL8uDpsO2g2p3ItRFPSwTUwUaBnf7EMW1U8lMC7_.-CespUTiT-2n9VK0)
 
-## Week 7 
-
-## Week 8
 
 ## Resources:
 
