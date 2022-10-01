@@ -1,8 +1,8 @@
-# Bioinformatics_Summer2021
+# Getting Started with Bioinformatics 
 
-Here is a guide to our summer 2021 bioinformatics fun (rhyme intentional :wink: )! I will be uploading all resources, slides, etc to use as tools to get our footing in the world of bioinformatics, which can typically be very daunting BUT NOT THIS SUMMER! NOT FOR US! 
+The goal of this page is to provide what I hope and feel is a less overwhelming introduction to bioinformatics. Here I try to touch on a number of subjects so we are all left wondering about the greater picture a little less. There are already many awesome resources (linked below) that dive deep into the world of bioinformatics, but I found they can sometimes get a bit too specific and/or overwhelming for newcomers to the bioinformatic scene. This page is designed to touch on a number of bigger topics in a bigger picture, more comprehensive way that hopefully can provide a better understanding of the field of bioinformatics as a whole. The goal is also to get a sense of the many different tools and applications that fall under the general umbrella term of bioinformatics.
 
-Let's do this :muscle:
+So let's get to it! :muscle:
 
 #### Topics to cover:
 1. Introduction to Bioinformatics
@@ -10,7 +10,7 @@ Let's do this :muscle:
 3. Introduction to Anaconda
 4. Introduction to Phylogenetics 
 5. Metagenomics vs. Amplicon 16S rRNA sequencing
-6. Examples of R programming
+6. Introduction to Examples of R programming
 
 #### Special Topics:
 1. HackMD
