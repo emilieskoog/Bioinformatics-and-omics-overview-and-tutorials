@@ -75,7 +75,7 @@ Here we goooooooo :rocket:
 :open_book: Slides:
 
   
-[Metagenomics vs amplicon sequencing]((https://github.com/emilieskoog/Bioinformatics-and-omics-overview-and-tutorials/blob/main/Metagenomics%20%20vs%20%20amplicon%20sequencing.pdf))
+[Metagenomics vs amplicon sequencing](https://github.com/emilieskoog/Bioinformatics-and-omics-overview-and-tutorials/blob/main/Metagenomics%20%20vs%20%20amplicon%20sequencing.pdf)
 
 
 
