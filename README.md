@@ -70,6 +70,14 @@ Here we goooooooo :rocket:
 
 [Video recording: Introduction to Phylogenetics](https://mit.zoom.us/rec/share/a0RQ2-r5WOdVy75xPQ_WKuA3wL8uDpsO2g2p3ItRFPSwTUwUaBnf7EMW1U8lMC7_.-CespUTiT-2n9VK0)
 
+## Metagenomics vs amplicon sequencing
+
+:open_book: Slides:
+
+  
+[Metagenomics vs amplicon sequencing]((https://github.com/emilieskoog/Bioinformatics-and-omics-overview-and-tutorials/blob/main/Metagenomics%20%20vs%20%20amplicon%20sequencing.pdf))
+
+
 
 ## Resources:
 
